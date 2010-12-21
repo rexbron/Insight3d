@@ -43,8 +43,8 @@ bool debug_initialize()
 bool initialization()
 {
 	// GNU GPL license notification
-	printf("insight3d 0.3.2, 2007-2009\n");
-	printf("licensed under GNU AGPL 3\n\n");
+	printf("insight3d 0.3.3, 2007-2010\n");
+	//printf("licensed under GNU AGPL 3\n\n");  // dosen't fit to the haeder
 
 	// note this crashes in debug on MSVC (2008 EE), for now avoid using strdup
 	/*char * s = strdup("ahoy"); 
