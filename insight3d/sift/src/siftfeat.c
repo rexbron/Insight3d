@@ -126,7 +126,7 @@ void usage( char* name )
 void arg_parse( int argc, char** argv )
 {
   //extract program name from command line (remove path, if present)
-  pname = basename( argv[0] );
+  pname = basename_r( argv[0] );
 
   //parse commandline options
   while( 1 )

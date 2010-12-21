@@ -85,7 +85,7 @@ void usage( char* name )
 */
 void arg_parse( int argc, char** argv )
 {
-  pname = basename( argv[0] );
+  pname = basename_r( argv[0] );
   int arg;
   while( 1 )
     {
