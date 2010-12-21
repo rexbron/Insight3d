@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/insight3d/!svn/ver/1/insight3d/sba
+END
+sba_chkjac.obj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_chkjac.obj
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/LICENSE
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/Makefile.vc
+END
+sba_levmar.obj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_levmar.obj
+END
+sba_levmar_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_levmar_wrap.c
+END
+sba_chkjac.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_chkjac.c
+END
+sba_lapack.obj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_lapack.obj
+END
+sba.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba.h
+END
+sba_levmar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_levmar.c
+END
+sba_chkjac.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_chkjac.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/compiler.h
+END
+sba_lapack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_lapack.c
+END
+sba_crsm.obj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_crsm.obj
+END
+Mak
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/Mak
+END
+sba.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba.lib
+END
+sba_crsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_crsm.c
+END
+Makefile.icc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/Makefile.icc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/CMakeLists.txt
+END
+sba_levmar_wrap.obj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/sba_levmar_wrap.obj
+END

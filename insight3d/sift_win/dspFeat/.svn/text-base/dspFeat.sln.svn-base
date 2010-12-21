@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dspFeat", "dspFeat.vcproj", "{F2703FB7-530C-492D-95D9-6CB110F2A80B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F2703FB7-530C-492D-95D9-6CB110F2A80B}.Debug.ActiveCfg = Debug|Win32
+		{F2703FB7-530C-492D-95D9-6CB110F2A80B}.Debug.Build.0 = Debug|Win32
+		{F2703FB7-530C-492D-95D9-6CB110F2A80B}.Release.ActiveCfg = Release|Win32
+		{F2703FB7-530C-492D-95D9-6CB110F2A80B}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

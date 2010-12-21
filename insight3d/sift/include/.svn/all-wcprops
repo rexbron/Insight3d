@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include
+END
+imgfeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/imgfeatures.h
+END
+xform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/xform.h
+END
+kdtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/kdtree.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/utils.h
+END
+minpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/minpq.h
+END
+sift.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/sift.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/include/Makefile
+END

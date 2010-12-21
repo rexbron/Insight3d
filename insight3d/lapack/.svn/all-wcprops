@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/insight3d/!svn/ver/1/insight3d/lapack
+END
+libF77.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/lapack/libF77.lib
+END
+libI77.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/lapack/libI77.lib
+END
+clapack.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/lapack/clapack.lib
+END
+blas.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/lapack/blas.lib
+END

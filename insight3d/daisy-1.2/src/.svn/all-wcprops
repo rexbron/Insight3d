@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src
+END
+interaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/interaction.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/main.cpp
+END
+matrix_manipulation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/matrix_manipulation.cpp
+END
+fileio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/fileio.cpp
+END
+daisy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/daisy.cpp
+END
+math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/math.cpp
+END
+general.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/src/general.cpp
+END

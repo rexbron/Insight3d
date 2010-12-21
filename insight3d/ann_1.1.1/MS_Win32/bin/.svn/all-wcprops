@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/bin
+END
+ANN.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/bin/ANN.dll
+END
+ann_test.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/bin/ann_test.ilk
+END
+ann_sample.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/bin/ann_sample.ilk
+END
+ann_test.exe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/bin/ann_test.exe
+END
+ann_sample.exe
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/bin/ann_sample.exe
+END

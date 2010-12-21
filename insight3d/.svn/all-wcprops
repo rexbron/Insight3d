@@ -1,0 +1,887 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/insight3d/!svn/ver/1/insight3d
+END
+mvg_autocalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_autocalibration.h
+END
+geometry_structures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_structures.cpp
+END
+geometry_textures.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_textures.h
+END
+gui_style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/gui_style.cpp
+END
+actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/actions.h
+END
+interface_sdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_sdl.h
+END
+interface_opencv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_opencv.cpp
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/zlib1.dll
+END
+tool_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_file.cpp
+END
+tool_extrude.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_extrude.cpp
+END
+ui_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_state.cpp
+END
+tool_points.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_points.h
+END
+tool_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_image.cpp
+END
+tool_edit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_edit.cpp
+END
+tool_triangulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_triangulation.h
+END
+core_image_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/core_image_loader.h
+END
+tool_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_selection.h
+END
+core_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/core_state.cpp
+END
+mvg_triangulation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_triangulation.cpp
+END
+tool_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_core.h
+END
+geometry_export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_export.cpp
+END
+ui_treeview.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_treeview.h
+END
+core_math_routines.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/core_math_routines.h
+END
+geometry_structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_structures.h
+END
+interface_opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_opengl.h
+END
+tool_polygons.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_polygons.h
+END
+insight3d.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/insight3d.pdb
+END
+interface_opencv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_opencv.h
+END
+insight3d.suo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/insight3d.suo
+END
+mvg_decomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_decomposition.cpp
+END
+ui_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_context.h
+END
+tool_edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_edit.h
+END
+tool_resection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_resection.cpp
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/insight3d/!svn/ver/1/insight3d/gui.h
+END
+tool_plane_extraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_plane_extraction.cpp
+END
+core_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/core_debug.cpp
+END
+highgui100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/highgui100.dll
+END
+mvg_camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_camera.cpp
+END
+libxml2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/libxml2.dll
+END
+tool_polygons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_polygons.cpp
+END
+mvg_resection.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_resection.h
+END
+ui_core_orig.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_core_orig.h
+END
+ui_inspection_mode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_inspection_mode.cpp
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/insight3d/!svn/ver/1/insight3d/tags
+END
+ui_shot_mode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_shot_mode.cpp
+END
+geometry_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_loader.cpp
+END
+insight3d.vcproj.user-PC.user.user
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/insight3d/!svn/ver/1/insight3d/insight3d.vcproj.user-PC.user.user
+END
+ui_core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_core.cpp
+END
+ui_visualization_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_visualization_helpers.h
+END
+cxts001.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/cxts001.dll
+END
+cv_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/cv_extensions.h
+END
+geometry_queries.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_queries.h
+END
+cvaux100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/cvaux100.dll
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/actions.cpp
+END
+ui_events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_events.cpp
+END
+core_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/core_debug.h
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/application.h
+END
+ui_constants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_constants.cpp
+END
+interface_filesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_filesystem.h
+END
+geometry_loader.log
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_loader.log
+END
+core_image_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/core_image_loader.cpp
+END
+geometry_publish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_publish.cpp
+END
+ui_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_state.h
+END
+tool_extrude.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_extrude.h
+END
+ui_shot_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_shot_mode.h
+END
+cv_extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/cv_extensions.cpp
+END
+cxcore100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/cxcore100.dll
+END
+mvg_triangulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_triangulation.h
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/application.cpp
+END
+interface_opengl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_opengl.cpp
+END
+ANN.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/insight3d/!svn/ver/1/insight3d/ANN.dll
+END
+ui_icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_icons.h
+END
+ui_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_list.h
+END
+cv100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/cv100.dll
+END
+ui_selection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_selection.cpp
+END
+tool_smart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_smart.cpp
+END
+gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/insight3d/!svn/ver/1/insight3d/gui.cpp
+END
+geometry_routines.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_routines.h
+END
+tool_calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_calibration.h
+END
+mvg_autocalibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_autocalibration.cpp
+END
+core_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/core_constants.h
+END
+mvg_decomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_decomposition.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/insight3d/!svn/ver/1/insight3d/Makefile
+END
+tool_typical_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_typical_includes.h
+END
+ui_visualization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_visualization.cpp
+END
+ui_epipolars.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_epipolars.h
+END
+mvg_resection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_resection.cpp
+END
+mvg_camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_camera.h
+END
+mvg_matching.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_matching.h
+END
+tool_points.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_points.cpp
+END
+gui_style.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/gui_style.h
+END
+ui_workflow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_workflow.h
+END
+tool_triangulation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_triangulation.cpp
+END
+ui_visualization_helpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_visualization_helpers.cpp
+END
+tool_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_file.h
+END
+libguide40.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/libguide40.dll
+END
+remake
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/insight3d/!svn/ver/1/insight3d/remake
+END
+geometry_routines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_routines.cpp
+END
+tool_core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_core.cpp
+END
+geometry_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_loader.h
+END
+ui_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_selection.h
+END
+geometry_queries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_queries.cpp
+END
+core_math_routines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/core_math_routines.cpp
+END
+ui_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_core.h
+END
+ui_epipolars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_epipolars.cpp
+END
+tool_matching.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_matching.h
+END
+core_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/core_state.h
+END
+core_structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/core_structures.h
+END
+geometry_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_export.h
+END
+mvg_matching.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_matching.cpp
+END
+ui_visualization.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_visualization.h
+END
+mvg_normalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_normalization.h
+END
+interface_filesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_filesystem.cpp
+END
+tool_EMPTY.cpp.template
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_EMPTY.cpp.template
+END
+ui_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_events.h
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/insight3d/!svn/ver/1/insight3d/compile
+END
+ui_workflow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_workflow.cpp
+END
+SDL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/insight3d/!svn/ver/1/insight3d/SDL.dll
+END
+tool_coordinates.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_coordinates.h
+END
+ui_visualization_point.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_visualization_point.h
+END
+insight3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/insight3d.vcproj
+END
+ui_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_constants.h
+END
+ui_context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_context.cpp
+END
+ml100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/ml100.dll
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/insight3d/!svn/ver/1/insight3d/main.cpp
+END
+geometry_publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_publish.h
+END
+tool_matching.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_matching.cpp
+END
+pthreadVC2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/pthreadVC2.dll
+END
+core_structures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/core_structures.cpp
+END
+tool_resection.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_resection.h
+END
+geometry_textures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/geometry_textures.cpp
+END
+mvg_normalization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_normalization.cpp
+END
+tool_plane_extraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_plane_extraction.h
+END
+interface_sdl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/interface_sdl.cpp
+END
+cvcam100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/cvcam100.dll
+END
+tool_coordinates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_coordinates.cpp
+END
+portability.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/portability.h
+END
+iconv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/insight3d/!svn/ver/1/insight3d/iconv.dll
+END
+ui_visualization_point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_visualization_point.cpp
+END
+ui_list.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_list.cpp
+END
+ui_inspection_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/ui_inspection_mode.h
+END
+tool_selection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_selection.cpp
+END
+tool_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_image.h
+END
+tool_calibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/tool_calibration.cpp
+END
+core_constants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/core_constants.cpp
+END
+insight3d.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/insight3d.exe
+END
+mvg_thresholds.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/mvg_thresholds.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls
+END
+highgui100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/highgui100.dll
+END
+cvaux100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/cvaux100.dll
+END
+libguide40.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/libguide40.dll
+END
+cv100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/cv100.dll
+END
+libxml2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/libxml2.dll
+END
+ml100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/ml100.dll
+END
+cvcam100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/cvcam100.dll
+END
+ANN.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/ANN.dll
+END
+iconv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/iconv.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/zlib1.dll
+END
+SDL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/SDL.dll
+END
+cxts001.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/cxts001.dll
+END
+pthreadVC2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/pthreadVC2.dll
+END
+cxcore100.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/dlls/cxcore100.dll
+END

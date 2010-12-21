@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/utils.c
+END
+xform.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/xform.h
+END
+Thumbs.db
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/Thumbs.db
+END
+sift.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/sift.c
+END
+siftfeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/siftfeat.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/utils.h
+END
+beaver.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/beaver.png
+END
+sift.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/sift.h
+END
+imgfeatures.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/imgfeatures.c
+END
+kdtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/kdtree.c
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/LICENSE.txt
+END
+imgfeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/imgfeatures.h
+END
+beaver_xform.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/beaver_xform.png
+END
+kdtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/kdtree.h
+END
+minpq.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/minpq.c
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/ChangeLog.txt
+END
+THANKS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/THANKS.txt
+END
+dspfeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/dspfeat.c
+END
+beaver.sift
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/beaver.sift
+END
+LICENSE.ubc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/LICENSE.ubc.txt
+END
+minpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/minpq.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/README.txt
+END
+xform.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/xform.c
+END
+match.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift_win/match.c
+END

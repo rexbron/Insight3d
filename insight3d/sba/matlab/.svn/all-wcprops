@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab
+END
+projac.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/projac.c
+END
+sba.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/sba.m
+END
+eucsbademo.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/eucsbademo.m
+END
+jacprojS.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/jacprojS.m
+END
+sba.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/sba.c
+END
+Makefile.w32
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/Makefile.w32
+END
+jacprojRT.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/jacprojRT.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/README.txt
+END
+jacprojRTS.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/jacprojRTS.m
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/Makefile
+END
+projRTS.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/matlab/projRTS.m
+END

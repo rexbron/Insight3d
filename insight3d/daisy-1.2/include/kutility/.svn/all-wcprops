@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility/math.h
+END
+general.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility/general.h
+END
+interaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility/interaction.h
+END
+matrix_manipulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility/matrix_manipulation.h
+END
+kutility.def
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility/kutility.def
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/insight3d/!svn/ver/1/insight3d/daisy-1.2/include/kutility/fileio.h
+END

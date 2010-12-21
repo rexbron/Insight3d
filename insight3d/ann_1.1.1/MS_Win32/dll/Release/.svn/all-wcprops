@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release
+END
+bd_fix_rad_search.obj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/bd_fix_rad_search.obj
+END
+ANN.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/ANN.lib
+END
+kd_split.obj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_split.obj
+END
+bd_search.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/bd_search.obj
+END
+bd_pr_search.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/bd_pr_search.obj
+END
+ANN.obj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/ANN.obj
+END
+kd_tree.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_tree.obj
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/mt.dep
+END
+kd_fix_rad_search.obj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_fix_rad_search.obj
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/BuildLog.htm
+END
+brute.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/brute.obj
+END
+kd_search.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_search.obj
+END
+kd_dump.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_dump.obj
+END
+kd_pr_search.obj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_pr_search.obj
+END
+ANN.dll.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/ANN.dll.intermediate.manifest
+END
+kd_util.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/kd_util.obj
+END
+perf.obj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/perf.obj
+END
+ANN.exp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/ANN.exp
+END
+bd_tree.obj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/bd_tree.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/insight3d/!svn/ver/1/insight3d/ann_1.1.1/MS_Win32/dll/Release/vc90.idb
+END

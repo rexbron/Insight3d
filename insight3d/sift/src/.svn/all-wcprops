@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src
+END
+kdtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/kdtree.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/utils.c
+END
+minpq.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/minpq.c
+END
+sift.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/sift.c
+END
+siftfeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/siftfeat.c
+END
+dspfeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/dspfeat.c
+END
+imgfeatures.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/imgfeatures.c
+END
+xform.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/xform.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/Makefile
+END
+match.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/insight3d/!svn/ver/1/insight3d/sift/src/match.c
+END

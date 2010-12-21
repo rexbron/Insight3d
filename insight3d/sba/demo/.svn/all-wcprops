@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo
+END
+eucsbademo.obj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/eucsbademo.obj
+END
+imgproj.obj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/imgproj.obj
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/Makefile.vc
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/a.out
+END
+eucsbademo.exe
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/eucsbademo.exe
+END
+calib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/calib.txt
+END
+7cams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/7cams.txt
+END
+eucsbademo.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/eucsbademo.c
+END
+imgproj.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/imgproj.c
+END
+readparams.obj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/readparams.obj
+END
+9cams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/9cams.txt
+END
+eucsbademo.exe.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/eucsbademo.exe.manifest
+END
+54pts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/54pts.txt
+END
+eucsbademo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/eucsbademo.h
+END
+54camsvarK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/54camsvarK.txt
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/tags
+END
+readparams.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/readparams.c
+END
+readparams.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/readparams.h
+END
+eucsbademo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/eucsbademo
+END
+Makefile.icc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/Makefile.icc
+END
+54cams.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/54cams.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/README.txt
+END
+7pts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/7pts.txt
+END
+7camsvarK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/7camsvarK.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/CMakeLists.txt
+END
+9pts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/9pts.txt
+END
+9camsvarK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/insight3d/!svn/ver/1/insight3d/sba/demo/9camsvarK.txt
+END
