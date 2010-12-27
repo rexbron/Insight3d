@@ -1,0 +1,7 @@
+*.la
+*.lo
+*.o
+*.a
+*.exe
+*.dll
+*.orig

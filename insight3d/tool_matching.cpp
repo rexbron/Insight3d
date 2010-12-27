@@ -387,7 +387,7 @@ void matching_extract_tracks(const double fsor_limit, const bool use_ransac, con
 			{
 				// allocate structures
 				CvMat * first_points = cvCreateMat(2, correspondences, CV_64F), * second_points = cvCreateMat(2, correspondences, CV_64F);
-				CvMat * status = cvCreateMat(1, correspondences, CV_8S);
+				CvMat * status = cvCreateMat(1, correspondences, CV_8U);
 				cvZero(status);
 				CvMat * F = cvCreateMat(3, 3, CV_64F);
 
