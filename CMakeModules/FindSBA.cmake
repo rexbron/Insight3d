@@ -8,7 +8,7 @@
 
 # Include dir
 find_path(SBA_INCLUDE_DIR
-  NAMES sba.h
+  sba.h PATH_SUFFIXES sba/
 )
 
 # Finally the library itself
